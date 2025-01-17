@@ -25,6 +25,12 @@ The training involves a minimax game:
 The generator aims to produce images that are increasingly realistic, fooling the discriminator.
 The discriminator works to accurately identify fake images from real ones.
 
+### REFERENCE
+
+DCGAN in Pyroch -> https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html \
+Threotical video for understanding the GAN -> https://youtu.be/Gib_kiXgnvA?si=JbnLad4BbqKIhfpe
+
+
 
 
 
